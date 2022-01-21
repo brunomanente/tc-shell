@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls="listar"
+alias ls = "ls -al"
