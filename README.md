@@ -1,1 +1,1 @@
-# tc-shell
+alias ls = "ls -al"
