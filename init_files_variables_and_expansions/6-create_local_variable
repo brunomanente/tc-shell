@@ -1,3 +1,2 @@
 #!/bin/bash
-local BEST
-local var=School
+KEY="variavel local"
