@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/iacta | grep -n ^ | grep ^3
+cat iacta | head -3 | tail -1
